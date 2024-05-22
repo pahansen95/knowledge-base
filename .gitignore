@@ -1,0 +1,9 @@
+.venv
+.cache
+.user.env
+*icloud
+.DS_Store
+__pycache__/
+*.OLD.py
+bun.lockb
+node_modules/
