@@ -1,0 +1,6 @@
+loguru
+cffi
+orjson
+frozendict
+aiohttp
+htbuilder
